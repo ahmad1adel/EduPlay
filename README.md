@@ -1,5 +1,5 @@
 
-# EduPlay - Graduation Project
+# EduPlay
 
 ![EduPlay Logo](src/imgs/logo.png)
 

@@ -1,7 +1,7 @@
 
 # EduPlay - Graduation Project
 
-![EduPlay Logo](src\imgs\logo.png)
+![EduPlay Logo](src/imgs/logo.png)
 
 ## Overview
 

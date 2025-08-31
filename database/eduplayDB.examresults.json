@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "686b48e882436356eebab0a9"
+  },
+  "studentId": {
+    "$oid": "685ea2c23858425c2d5b645b"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "answers": [
+    {
+      "questionId": {
+        "$oid": "686af49b80312ba1ba069d4f"
+      },
+      "selected": "B",
+      "isCorrect": true,
+      "points": 15,
+      "_id": {
+        "$oid": "686b48e882436356eebab0aa"
+      }
+    },
+    {
+      "questionId": {
+        "$oid": "686af49b80312ba1ba069d50"
+      },
+      "selected": "C",
+      "isCorrect": false,
+      "points": 0,
+      "_id": {
+        "$oid": "686b48e882436356eebab0ab"
+      }
+    }
+  ],
+  "totalScore": 45,
+  "createdAt": {
+    "$date": "2025-07-07T04:11:20.246Z"
+  },
+  "__v": 0
+}]

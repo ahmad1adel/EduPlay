@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "68688f47dd572e8e12a64556"
+  },
+  "name": "Alex Smith",
+  "avatarUrl": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68688f47dd572e8e12a64557"
+  },
+  "name": "Emma Wilson",
+  "avatarUrl": "https://images.pexels.com/photos/3775131/pexels-photo-3775131.jpeg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68688f47dd572e8e12a64558"
+  },
+  "name": "John Davis",
+  "avatarUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+  "__v": 0
+}]

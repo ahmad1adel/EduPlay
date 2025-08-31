@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "686749429218089464744726"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "course-1",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-04T03:23:46.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6868835ab0581da288f733c8"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "course-2",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-05T01:43:54.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686884cbb0581da288f733cc"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "course-3",
+  "courseName": "Physics Department",
+  "enrolledAt": {
+    "$date": "2025-07-05T01:50:03.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686af32ce308c5ff7ea3b01c"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "68688f47dd572e8e12a6455a",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-06T22:05:32.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686af32fe308c5ff7ea3b026"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "68688f47dd572e8e12a64561",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-06T22:05:35.739Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686af34ce308c5ff7ea3b03e"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "68688f47dd572e8e12a64568",
+  "courseName": "Physics Department",
+  "enrolledAt": {
+    "$date": "2025-07-06T22:06:04.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686af359e308c5ff7ea3b050"
+  },
+  "userId": "685ea2c23858425c2d5b645b",
+  "courseId": "68688f47dd572e8e12a64576",
+  "courseName": "English Department",
+  "enrolledAt": {
+    "$date": "2025-07-06T22:06:17.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686b4569018d3b0159189085"
+  },
+  "userId": "686b4561018d3b015918907f",
+  "courseId": "68688f47dd572e8e12a6455a",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-07T03:56:25.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ba855955ec3e9fb6fcbcc"
+  },
+  "userId": "686b4561018d3b015918907f",
+  "courseId": "68688f47dd572e8e12a64561",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-07T10:58:29.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c026d19ede4ee9ce6747f"
+  },
+  "userId": "686b4561018d3b015918907f",
+  "courseId": "68688f47dd572e8e12a64568",
+  "courseName": "Physics Department",
+  "enrolledAt": {
+    "$date": "2025-07-07T17:22:53.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c8ec5ed601bff20a29118"
+  },
+  "userId": "686c8cf8ed601bff20a29104",
+  "courseId": "68688f47dd572e8e12a64576",
+  "courseName": "English Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T03:21:41.450Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686cf8b3b652d5f8b4dc0b7b"
+  },
+  "userId": "686cf4c872b78b0ebb202a7b",
+  "courseId": "68688f47dd572e8e12a6455a",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T10:53:39.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686cf8bdb652d5f8b4dc0b8c"
+  },
+  "userId": "686cf4c872b78b0ebb202a7b",
+  "courseId": "68688f47dd572e8e12a64561",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T10:53:49.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02b3dbeb042103a39a94"
+  },
+  "userId": "686cfe94dbeb042103a0ab35",
+  "courseId": "68688f47dd572e8e12a6455a",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T11:36:19.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02b9dbeb042103a39aa8"
+  },
+  "userId": "686cfe94dbeb042103a0ab35",
+  "courseId": "68688f47dd572e8e12a64561",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T11:36:25.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02bedbeb042103a39abf"
+  },
+  "userId": "686cfe94dbeb042103a0ab35",
+  "courseId": "68688f47dd572e8e12a64568",
+  "courseName": "Physics Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T11:36:30.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b023d482a6843747422"
+  },
+  "userId": "686cfb789361d75d69f50768",
+  "courseId": "68688f47dd572e8e12a6455a",
+  "courseName": "Mathematics Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T12:11:46.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b063d482a6843747433"
+  },
+  "userId": "686cfb789361d75d69f50768",
+  "courseId": "68688f47dd572e8e12a64561",
+  "courseName": "Chemistry Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T12:11:50.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b0e3d482a6843747444"
+  },
+  "userId": "686cfb789361d75d69f50768",
+  "courseId": "68688f47dd572e8e12a64568",
+  "courseName": "Physics Department",
+  "enrolledAt": {
+    "$date": "2025-07-08T12:11:58.832Z"
+  },
+  "__v": 0
+}]

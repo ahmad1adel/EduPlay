@@ -1,0 +1,9 @@
+/* src/components/CourseCategories.css */
+.category-card {
+    border-radius: 20px;
+    transition: transform 0.2s ease;
+  }
+  
+  .category-card:hover {
+    transform: translateY(-5px);
+  }

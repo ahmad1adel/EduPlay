@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "686b1ab40c15f977491d9e30"
+  },
+  "userId": {
+    "$oid": "65e123abc123456def123456"
+  },
+  "courseId": {
+    "$oid": "66f456abc789012def123456"
+  },
+  "videoIndex": 2,
+  "watchedAt": {
+    "$date": "2025-07-07T00:54:12.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686b456a018d3b0159189095"
+  },
+  "userId": {
+    "$oid": "686b4561018d3b015918907f"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-07T03:56:26.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ba85f955ec3e9fb6fcbdc"
+  },
+  "userId": {
+    "$oid": "686b4561018d3b015918907f"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64561"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-07T10:58:39.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c025319ede4ee9ce67458"
+  },
+  "userId": {
+    "$oid": "686b4561018d3b015918907f"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "videoIndex": 1,
+  "watchedAt": {
+    "$date": "2025-07-07T17:22:27.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c025319ede4ee9ce6745b"
+  },
+  "userId": {
+    "$oid": "686b4561018d3b015918907f"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "videoIndex": 2,
+  "watchedAt": {
+    "$date": "2025-07-07T17:22:27.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c025419ede4ee9ce6745e"
+  },
+  "userId": {
+    "$oid": "686b4561018d3b015918907f"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "videoIndex": 3,
+  "watchedAt": {
+    "$date": "2025-07-07T17:22:28.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686c8eceed601bff20a29128"
+  },
+  "userId": {
+    "$oid": "686c8cf8ed601bff20a29104"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64576"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T03:21:50.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686cf8beb652d5f8b4dc0b9c"
+  },
+  "userId": {
+    "$oid": "686cf4c872b78b0ebb202a7b"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64561"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T10:53:50.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02b5dbeb042103a39aa4"
+  },
+  "userId": {
+    "$oid": "686cfe94dbeb042103a0ab35"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a6455a"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T11:36:21.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02badbeb042103a39ab8"
+  },
+  "userId": {
+    "$oid": "686cfe94dbeb042103a0ab35"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64561"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T11:36:26.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02badbeb042103a39abb"
+  },
+  "userId": {
+    "$oid": "686cfe94dbeb042103a0ab35"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64561"
+  },
+  "videoIndex": 1,
+  "watchedAt": {
+    "$date": "2025-07-08T11:36:26.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02bedbeb042103a39acf"
+  },
+  "userId": {
+    "$oid": "686cfe94dbeb042103a0ab35"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64568"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T11:36:30.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d02bfdbeb042103a39ad2"
+  },
+  "userId": {
+    "$oid": "686cfe94dbeb042103a0ab35"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64568"
+  },
+  "videoIndex": 1,
+  "watchedAt": {
+    "$date": "2025-07-08T11:36:31.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b213d482a6843747454"
+  },
+  "userId": {
+    "$oid": "686cfb789361d75d69f50768"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64568"
+  },
+  "videoIndex": 1,
+  "watchedAt": {
+    "$date": "2025-07-08T12:12:17.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b213d482a6843747457"
+  },
+  "userId": {
+    "$oid": "686cfb789361d75d69f50768"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64568"
+  },
+  "videoIndex": 0,
+  "watchedAt": {
+    "$date": "2025-07-08T12:12:17.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686d0b263d482a684374745a"
+  },
+  "userId": {
+    "$oid": "686cfb789361d75d69f50768"
+  },
+  "courseId": {
+    "$oid": "68688f47dd572e8e12a64568"
+  },
+  "videoIndex": 2,
+  "watchedAt": {
+    "$date": "2025-07-08T12:12:22.799Z"
+  },
+  "__v": 0
+}]

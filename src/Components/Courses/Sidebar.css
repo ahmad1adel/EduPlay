@@ -1,0 +1,34 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 220px;
+    height: 100vh;
+    background-color: #FFFAFA;
+    color: #2B59CE !important;
+  }
+  
+  .sidebar .nav-link {
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 10px 15px;
+    color: #2B59CE !important;
+  }
+  
+  .sidebar .nav-link.active {
+    background-color: #ffffff22;
+    color: white !important;
+    border-radius: 6px;
+  }
+.CourseSpan{
+    background: linear-gradient(90deg, #00C4CC 0%, #8B3DFF 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "Quicksand";
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 48px;
+    letter-spacing: 0%;
+}
+.fa-graduation-cap{
+    font-size: x-large;
+}

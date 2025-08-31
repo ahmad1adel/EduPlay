@@ -1,0 +1,63 @@
+.logo-img {
+    margin-bottom: 10px;
+    width: 32px;
+    height: 33px;
+    top: -8px;
+    left: 1px;
+    background: linear-gradient(90deg, #00C4CC 0%, #8B3DFF 100%);
+    border-radius: 8px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    width: 105px;
+    height: 37px;
+    gap: 7px;
+}
+.logo img {
+    width: 32px;
+    height: 33px;
+    top: -8px;
+    left: 1px;
+    background: linear-gradient(90deg, #00C4CC 0%, #8B3DFF 100%);
+    border-radius: 8px;
+}    
+
+.logo span {
+    width: 59px;
+    height: 20px;
+    font-family: Comic Neue;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 19.55px;
+    letter-spacing: 0.6%;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 17px;
+    line-height: 19.55px;
+    letter-spacing: 0.6%;
+    text-align: center;
+    
+}
+.search-box {
+    display: flex;
+    align-items: center;
+    background: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+}
+.search-box i {
+    font-size: 18px;
+    color: black;
+    margin-right: 8px;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.6);
+}

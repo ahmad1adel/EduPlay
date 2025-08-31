@@ -1,0 +1,17 @@
+/* src/components/Header.css */
+.category-title::after {
+    content: '';
+    position: absolute;
+    width: 80%;
+    height: 4px;
+    left: 10%;
+    bottom: -8px;
+    background-color: orange;
+    border-radius: 2px;
+  }
+.coursecategorytitle{
+font-size:48px ;
+font-weight: bolder;
+line-height: 62px;
+letter-spacing: -6%;
+}  

@@ -1,0 +1,298 @@
+/* .EditPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+  .header {
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+
+  }
+  
+  .subheader {
+    font-size: 14px;
+  }
+  .st{
+    position: relative;
+    width: 307px;
+    height: 70px;
+    top: 33px;
+    left: 41px;
+
+  }
+  .table {
+    border-collapse: collapse;
+    position: relative;
+    width: 1133px;
+    height: 427px;
+    top: 112px;
+    left: 23px;
+
+  }
+  
+  .table thead {
+    background-color: #efefef;
+    text-align: left;
+  }
+  .table tr{
+    width: 192px;
+    height: 44px;
+    padding: 10px;
+    gap: 10px;
+
+  }
+  
+  .table th,
+  .table td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+  }
+  
+  .activity-icon {
+    margin-right: 10px;
+  }
+  
+  .page-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh; 
+  }
+  
+  .simple-account-view {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    width: 238px;
+    height: 464px;
+    border-right-width: 1px;
+    left: 13px;
+    position: relative;
+
+  }
+  
+  .divider {
+    width: 1px;
+    height: 464px;
+    background-color: #ccc;
+  }
+.account-title, .progress-title{
+    margin-left: 15px;
+}
+
+.user-profile {
+    width: 1284px;
+    height: 117px;
+    position: relative;
+    top: 128px;
+    left: 90px;
+    background: #D9D9D9;
+  
+    display: flex;
+    align-items: center; 
+    gap: 16px;
+    padding: 20px;
+  }
+  
+  .profileImg {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 2px solid #fff; 
+  }
+  
+  
+  .user-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .user-name {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .user-role {
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .chevron-icon {
+    margin-bottom: 10PX;  
+}
+.video-titles-row td {
+  background-color: #f9f9f9;
+  padding-top: 0;
+}
+
+.video-titles-list {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #444;
+}
+
+.video-titles-list ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin: 4px 0;
+} */
+.EditPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f4f6f8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.user-profile {
+  width: 90%;
+  max-width: 1200px;
+  margin-top: 40px;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: white;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 30px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.profileImg {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #fff;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-name {
+  margin: 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.user-role {
+  margin: 0;
+  font-size: 14px;
+  color: #e0dfff;
+}
+
+.chevron-icon {
+  margin-left: auto;
+  color: white;
+  cursor: pointer;
+}
+
+.page-wrapper {
+  display: flex;
+  margin-top: 40px;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.simple-account-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 200px;
+  padding: 20px;
+}
+
+.progress-section {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #444;
+  margin-top: 20px;
+}
+
+.divider {
+  width: 1px;
+  background-color: #ddd;
+  margin: 0 20px;
+}
+
+.progress-page {
+  flex: 1;
+  background-color: white;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+}
+
+.header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.subheader {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.total-points h4 {
+  font-size: 20px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.table thead {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.table th,
+.table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  font-size: 14px;
+}
+
+.table tr:hover {
+  background-color: #f9f9f9;
+}
+
+.activity-icon {
+  margin-right: 10px;
+  color: #5c5c5c;
+}
+
+.video-titles-row td {
+  background-color: #fafafa;
+  padding-top: 0;
+}
+
+.video-titles-list {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #333;
+}
+
+.video-titles-list ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin: 4px 0;
+}

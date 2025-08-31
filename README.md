@@ -55,7 +55,7 @@ EduPlay is a full-stack educational platform designed for children, parents, and
 ### Installation
 1. Clone the repository:
 	```bash
-	git clone https://github.com/your-username/eduplay.git
+	git clone https://github.com/ahmad1adel/EduPlay.git
 	cd eduplay
 	```
 2. Install frontend dependencies:

@@ -1,7 +1,7 @@
 
 # EduPlay - Graduation Project
 
-![EduPlay Logo](public/logo512.png)
+![EduPlay Logo](src\imgs\logo.png)
 
 ## Overview
 
@@ -37,9 +37,9 @@ EduPlay is a full-stack educational platform designed for children, parents, and
 
 ## Screenshots
 
-| Home Page | Course Page | Video Learning | Exam Page | Dashboard |
+| Home Page | Course Page | Games Learning | Exam Page | Dashboard |
 |-----------|-------------|----------------|-----------|-----------|
-| ![Home](screenshots/image_1.png) | ![Course](screenshots/image_2.png) | ![Video](screenshots/image_3.png) | ![Exam](screenshots/image_4.png) | ![Dashboard](screenshots/image_5.png) |
+| ![Home](screenshots/image_3.png) | ![Course](screenshots/image_4.png) | ![Games](screenshots/image_4.png) | ![Exam](screenshots/image_5.png) | ![Dashboard](screenshots/image_2.png) |
 
 ## Figma Design
 
